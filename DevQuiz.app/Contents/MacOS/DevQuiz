@@ -1,0 +1,6 @@
+#!/bin/bash
+APP_DIR="$(cd "$(dirname "$0")/.." && pwd)"
+exec /usr/bin/java \
+  -Xdock:name="DevQuiz" \
+  -Xdock:icon="$APP_DIR/Resources/DevQuiz.icns" \
+  -jar "$APP_DIR/Resources/DevQuiz.jar"
