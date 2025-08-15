@@ -24,7 +24,8 @@ A lightweight Java Swing app that quizzes you on **Java** and **JavaScript** syn
 ## Installation 
 
 Download & Install (.zip for macOS)
-Download the ZIP from GitHub [**⬇️ Click Here (.zip)**](https://github.com/rbegin95/JavaAssignement4/DevQuiz.zip)
+Download the ZIP from GitHub [**⬇️ Click here to download DevQuiz (.zip)**](https://github.com/rbegin95/JavaAssignement4/releases/latest/download/DevQuiz.zip)
+
 Unzip it in Finder.
 Move DevQuiz.app to your Applications folder.
 
