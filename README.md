@@ -1,4 +1,4 @@
-# DevQuiz — Java & JavaScript Flashcards (macOS Desktop)
+# DevQuiz — Java & JavaScript Flashcards (macOS)
 
 A lightweight Java Swing app that quizzes you on **Java** and **JavaScript** syntax. Choose a deck (Java / JavaScript / Mixed), answer 10 questions per round, and track your score and streak.
 
@@ -24,7 +24,7 @@ A lightweight Java Swing app that quizzes you on **Java** and **JavaScript** syn
 ## Installation 
 
 Download & Install (.zip for macOS)
-Download the ZIP from GitHub (Code ▸ Download ZIP or Releases).
+Download the ZIP from GitHub [**⬇️ Click Here (.zip)**](https://github.com/rbegin95/JavaAssignement4/DevQuiz.zip)
 Unzip it in Finder.
 Move DevQuiz.app to your Applications folder.
 
